@@ -3,10 +3,10 @@
 The University Management System is a C++ project that implements a simple model of a university's operations, including managing departments, professors, students, and courses. The project follows object-oriented programming principles and incorporates the Singleton design pattern for efficient data management.
 
 ## Table of Contents
+- [Contributors](#contributors)
 - [Introduction](#introduction)
 - [Classes](#classes)
 - [Usage](#usage)
-- [Contributors](#contributors)
 
 ## Contributors
 
